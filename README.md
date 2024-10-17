@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Youssef Tijani</h1>
 <h3 align="center">I'm a computer science student on a fascinating journey of exploration and creation. Whether I'm unraveling complex problems, diving into lines of code, or crafting innovative software solutions, I find joy in every step of the process.</h3>
 
-- 📫 How to reach me **youssef661tijani@gmail.com**
+- 📫 How to reach me **youssef.tijani@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
